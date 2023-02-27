@@ -13,3 +13,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Избранные работы:**  
+![«Mesto»](https://encors.github.io/sign-in) – React-приложение с возможностью регистрации, редактирования профиля, добавления и удаления фотокарточек.
+![«Путешествия по России»](https://encors.github.io/russian-travel/) – адаптивный одностраничный информационный сайт о путешествиях по стране.
