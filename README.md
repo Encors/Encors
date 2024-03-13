@@ -2,7 +2,7 @@
 
 - Изучаю JavaScript, TypeScript, React и сопутствующие технологии
 - Написать мне можно на [почту](mailto:cheperish@mail.ru), указанную в профиле.
-- 💬 Также можем пообщаться в [Telegram](https://t.me/borzkho).
+
 
 **Технологии, с которыми я знакома:**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
